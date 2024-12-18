@@ -1,0 +1,2 @@
+# JavaScript Hoisting Bug
+This repository demonstrates a common JavaScript bug related to hoisting.  The code in `bug.js` shows how referencing a variable before its declaration using `var` leads to an unexpected `undefined` output. The solution in `bugSolution.js` illustrates how to correctly define the variable to prevent this behavior. 
